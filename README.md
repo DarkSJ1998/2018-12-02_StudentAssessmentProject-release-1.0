@@ -1,8 +1,7 @@
 # 2018-12-02_StudentAssessmentProject-release-1.0
-=================================================
 
 > Description:-
-ScoreBook is a Student Assessment and Management System designed to facilitate assessment of students by their parents, teacher and the student himself/herself.
+- ScoreBook is a Student Assessment and Management System designed to facilitate assessment of students by their parents, teacher and the student himself/herself.
 
 > USERs:-
 - Admin User - Can update personal details, change password, add more students, add more teachers, add more courses, assign courses to teachers as well as students.
@@ -22,8 +21,8 @@ Technologies Used:-
 
 
 Changelog:-
-> 2018-12-02_StudentAssessmentProject-release1.0
----------------------------------------------
+> 2018-12-02_StudentAssessmentProject-release-1.0
+-------------------------------------------------
 Changes since beta1:-
 - Added Password Reset Functionality for all users, Student, Admin as well as Faculty user.
 - Added Personal Details Updation Functionality for all users, Student, Admin as well as Faculty user.
