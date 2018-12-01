@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/web/index.html</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/controller/addStudent.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/web/home_student.jsp</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/controller/addCourse.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/modal/TeacherDAO.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/controller/updateCourse.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/modal/AdminDAO.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/controller/addTeacher.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/modal/Student.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/modal/Teacher.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/modal/CoursesDAO.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/modal/Admin.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/web/index.jsp</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/web/editMarks.jsp</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/modal/Admin.hbm.xml</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/web/assignCourses.jsp</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/modal/StudentDAO.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/modal/MyAccount.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/web/coursesStudent.jsp</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/web/dashboardStudent.jsp</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/web/home_admin.jsp</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/controller/Login.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/web/logout.jsp</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/modal/Courses.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/controller/updateMarks.java</file>
+            <file>file:/C:/Users/Sarthak%20Jain/Documents/NetBeansProjects/StudentAssessmentProject/src/java/hibernatecfg/hibernate.cfg.xml</file>
+        </group>
+    </open-files>
+</project-private>
